@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c84d4bb62293ae2489555ca76472585f, type: 3}
+  m_Name: "Vihre\xE4Harmaa"
+  m_EditorClassIdentifier: 
+  colors:
+  - name: Very dark
+    color: {r: 0.14901961, g: 0.3647059, b: 0.22463939, a: 1}
+  - name: Dark
+    color: {r: 0.3764706, g: 0.43529412, b: 0.4302771, a: 1}
+  - name: Light
+    color: {r: 0.54509807, g: 0.59607846, b: 0.5753783, a: 1}
+  - name: Very light
+    color: {r: 0.9607843, g: 1, b: 0.97178876, a: 1}
